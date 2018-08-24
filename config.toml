@@ -53,7 +53,7 @@ weight = 30
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Mathieu Cornic"
+author = "Doug Frayer"
 description = "Documentation for Hugo Learn Theme"
 disableBreadcrumb = true
 disableNextPrev = true
